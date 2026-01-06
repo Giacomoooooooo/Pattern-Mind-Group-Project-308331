@@ -1,7 +1,9 @@
 # PatternMind 324111
 
 **Team Members:**  
-name · name · name
+Giacomo Durante 308331
+Igor Pistilli 309021
+Francesco Saviotti 323251
 
 ---
 
