@@ -54,12 +54,7 @@ Some clusters align with intuitive visual concepts (e.g., space objects, organic
 ---
 
 ## 5. Supervised Classification
-
-To assess feature quality, several classifiers were trained on CNN embeddings. Logistic Regression with regularization performed best, outperforming more complex models.
-
-![Classifier comparison](images/classifier_comparison.png)
-
-This indicates that the CNN already performs the necessary non-linear transformations, making simple classifiers more effective.
+To assess feature quality, we trained simple supervised models on the CNN embeddings. Logistic Regression performed best, suggesting the CNN features are already linearly separable enough that heavier models add limited benefit.
 
 ---
 
